@@ -6,6 +6,10 @@ if operator == '+':
     print(num1 + num2)
 elif operator == '-':
     print(num1 - num2)
+elif operator == '/':
+    print(num1 / num2)
+elif operator == '*' or 'x':
+    print(num1 * num2)
 
 result = float(num1) + operator + float(num2)
 
