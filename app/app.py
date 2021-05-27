@@ -13,6 +13,6 @@ elif operator == '*' or 'x':
 else:
     print('Invalid operator')
 
-result = float(num1) + operator + float(num2)
+# result = float(num1) + operator + float(num2)
 
-print(result)
+# print(result)
