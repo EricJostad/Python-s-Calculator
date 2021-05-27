@@ -10,10 +10,10 @@
 - [Author](#authors)
 
 ### Description of Project
-
+- This is a basic calculator app that, using Python as the primary language, will take in user input and provide an accurate output. 
 
 ### Technologies
-
+- Python (https://www.python.org/)
 
 ### Page Images
 
@@ -22,7 +22,7 @@
 
 
 ### Next Steps
-
+- Add a front-end interface for user to easily interact with
 
 ### Author
 - Eric Jostad https://github.com/EJostad
